@@ -20,4 +20,10 @@ Acesso: https://chat.blip.ai/?appKey=Z2l0aHViaW50ZWdyYXRpb246N2VlZjE0ODAtNjBjNS0
 
 O json do projeto no builder encontra-se na pasta BliP_Builder, os demais arquivos para o projeto da API se encontra na pasta API_Mid_Github.
 
+# Referencia para construção:
+
+![image](https://user-images.githubusercontent.com/36079471/171259892-c24fcc49-a6cd-491c-a3b2-466df2c778f5.png)
+
+![image](https://user-images.githubusercontent.com/36079471/171260031-2b08da36-e9cc-42cc-b45b-7df0ac2c44a9.png)
+
 
