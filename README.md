@@ -4,7 +4,7 @@ O projeto consiste em uma API Rest que consome a API do GitHub para verificar os
 
 # API
 
-Foi utilizar o SmarterAsp para upload/deploy da API
+Foi utilizado o SmarterAsp para upload/deploy da API
 
 http://victorgontijo-001-site1.htempurl.com/swagger/index.html
 
